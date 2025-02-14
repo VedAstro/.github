@@ -5,6 +5,13 @@
   title="VedAstro.org">
 </a>
 
+# 🙏 How VedAstro can help you...
+
+- [Website](https://vedastro.org) --> easy & fast astrology data for **normal users**
+- [AI Astrologer](https://vedastro.org/AIAstrologer.html) --> 🤖 World's 1st open source **Vedic AI astrologer**
+- [Numerology](https://vedastro.org/Numerology.html) --> Accurate Name Numerology using **Mantra Shastra**
+
+
 # 📜 About
 Anybody who has studied Vedic Astrology knows well how accurate it can be.
 But also how complex it can get to make accurate predictions.
@@ -27,9 +34,6 @@ Thanks to [B.V. Raman](https://en.wikipedia.org/wiki/B._V._Raman) and his grandf
 
 **Leslie Choi** : Believed in the project even when work was only half done.
 
-<img src="https://play-lh.googleusercontent.com/Rya_zHj8gLRk3uenRehcLbfhSj-fushukfQH-JbtO2-hbJTRyr43F42Z9CrypGMacyY=w240-h480-rw" width="100"/>
-
-**[Swarn Siddhi](https://swarnsiddhi.com/)** : The makers of this awesome app keep this VedAstro project alive 
 
 <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.png" width="100"/>
 
